@@ -1,0 +1,25 @@
+LULC_desc,lucode,usle_c,usle_p
+ArtificialSurface,1,0.100,1
+MineDumpConstruction,2,0.350,1
+BeachDuneAndSand,3,0.350,1
+StillWaterBody,4,0.000,1
+StillWaterBody,5,0.000,1
+WaterBody,6,0.000,1
+Wetland,7,0.060,1
+Forest ,8,0.001,1
+ForestPlantation,9,0.080,1
+SparseVegetation,10,0.010,1
+Grassland,11,0.080,1
+Pastureland,12,0.080,1
+Sugarcane,13,0.150,1
+PermanentCropland,14,0.150,1
+OliveGrove,15,0.150,1
+NonIrrigatedArableLand,16,0.500,0.5
+NonIrrigatedArableLand,17,0.500,0.5
+ArableLand,18,0.500,0.5
+ArableLand,19,0.500,0.5
+RiceField,20,0.500,0.5
+RiceField,21,0.500,0.5
+PermanentCropland,22,0.150,1
+Pastureland,23,0.080,1
+NoData,24,0.000,1

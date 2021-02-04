@@ -1,0 +1,25 @@
+lucode,LULC_desc,LULC_veg,root_depth,Kc
+1,ArtificialSurface,0,0,0.29
+2,MineDumpConstruction,0,0,0.29
+3,BeachDuneAndSand,0,500,0.2
+4,StillWaterBody,0,10,1
+5,StillWaterBody,0,10,1
+6,WaterBody,0,10,1
+7,Wetland,0,2000,0.5
+8,Forest ,1,3500,1
+9,ForestPlantation,1,3500,1
+10,SparseVegetation,1,1175,0.365
+11,Grassland,1,2000,0.65
+12,Pastureland,1,2000,0.65
+13,Sugarcane,1,2250,0.825
+14,PermanentCropland,1,2250,0.825
+15,OliveGrove,1,2250,0.825
+16,NonIrrigatedArableLand,1,1000,0.65
+17,NonIrrigatedArableLand,1,1000,0.65
+18,ArableLand,1,1000,0.65
+19,ArableLand,1,1000,0.65
+20,RiceField,1,1000,0.65
+21,RiceField,1,1000,0.65
+22,PermanentCropland,1,2250,0.825
+23,Pastureland,1,2000,0.65
+24,NoData,0,0,0

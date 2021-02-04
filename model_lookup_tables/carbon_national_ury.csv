@@ -1,0 +1,25 @@
+lucode,LULC_name,C_above,C_below,C_soil,C_dead
+1,ArtificialSurface,0,0,0,0
+2,MineDumpConstruction,0,0,0,0
+3,BeachDuneAndSand,1,0,0,0
+4,StillWaterBody,0,0,0,0
+5,StillWaterBody,0,0,0,0
+6,WaterBody,0,0,0,0
+7,Wetland,50,0,0,0
+8,Forest ,128,0,0,0
+9,ForestPlantation,64,0,0,0
+10,SparseVegetation,2.5,0,0,0
+11,Grassland,4.5,0,0,0
+12,Pastureland,4.5,0,0,0
+13,Sugarcane,5,0,0,0
+14,PermanentCropland,5,0,0,0
+15,OliveGrove,5,0,0,0
+16,NonIrrigatedArableLand,5,0,0,0
+17,NonIrrigatedArableLand,5,0,0,0
+18,ArableLand,5,0,0,0
+19,ArableLand,5,0,0,0
+20,RiceField,5,0,0,0
+21,RiceField,5,0,0,0
+22,PermanentCropland,5,0,0,0
+23,Pastureland,4.5,0,0,0
+24,NoData,0,0,0,0
